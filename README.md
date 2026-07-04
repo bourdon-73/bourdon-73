@@ -1,19 +1,24 @@
-## Sup
+## Sup 👋
 
-I'm Will
+I'm Will.
 
-I play around with godot mostly
-tech : c++, cs, gdscript
+I mostly mess around in Godot.
 
+**Tech**
+- C++
+- C#
+- GDScript
 
-I like symetrical and simple games.
-Rocket league is the most elegant game ever made.
+I like simple, symmetrical games.
+
+Rocket League is the most elegant game ever made.
+
 ♪ Slight obsession with procedural generation ♫
 
 
 I need to work on : 
 - Finishing projects
-- Working with others.
+- Working with others
 
 
 hobbies in g : 
@@ -23,16 +28,28 @@ hobbies in g :
 - golden retriever
 
 
-this is cool
-                                  ...vvvv)))))).
-       /~~\               ,,,c(((((((((((((((((/
-      /~~c \.         .vv)))))))))))))))))))\``
-          G_G__   ,,(((KKKK//////////////'
-        ,Z~__ '@,gW@@AKXX~MW,gmmmz==m_.
-       iP,dW@!,A@@@@@@@@@@@@@@@A` ,W@@A\c
-       ]b_.__zf !P~@@@@@*P~b.~+=m@@@*~ g@Ws.
-          ~`    ,2W2m. '\[ ['~~c'M7 _gW@@A`'s
-            v=XX)====Y-  [ [    \c/*@@@*~ g@@i
-           /v~           !.!.     '\c7+sg@@@@@s.
-          //              'c'c       '\c7*X7~~~~
-         ]/                 ~=Xm_       '~=(Gm_.
+NOW THIS IS WHAT IM TALKING ABOUT :
+
+                               _.-~7
+      .                      ,-"   /
+      \\                   .^     / _.-~7
+       \\                 /      /-"   /
+        \\               /\.  _.^     /
+ ________\\          .--" _>-"/      /
+`--------\"\  ___   / .-~"_~"/l  _.-^-.
+          \.\" _/7-{ / /'~ ~/_.-"--._ /
+          /_.-~ \|~~Y Y   _// "~-.   ~
+         <"_ __'_I__I |  (_/     \\
+          \_/_.~ j I~-'           )Y
+            ">-'Y\//\     _.     ( j__
+            /7--l //"\j|_/// ._  _7   ~"-.
+           //    "/,^. | 7/--||-~__)      \
+         .//     // //"'//   l`"~_ Y     .-Y
+         3/    .//_//  //     ~7` ||--._/  |
+               3/ L/ _//      /` /||       !
+                     L/      /` / !j      /
+                     i      /` / //      /
+                     l\    /` '_//     .^   Rowan
+                      \"--"`   L/  _.-~     Crawford
+                       "-.____.--"~
+
