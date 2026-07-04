@@ -8,6 +8,8 @@ tech : c++, cs, gdscript
 
 I like symetrical and simple games.
 Rocket league is the most elegant game ever made.
+♪ Slight obsession with procedural generation ♫
+
 
 hobbies in g : 
 - Gym
