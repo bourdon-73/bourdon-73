@@ -1,16 +1,16 @@
-## Hi there 👋
+## Sup
 
-<!--
-**bourdon-73/bourdon-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Will
 
-Here are some ideas to get you started:
+I play around with godot mostly
+tech : c++, cs, gdscript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I like symetrical and simple games.
+Rocket league is the most elegant game ever made.
+
+hobbies in g : 
+- Gym
+- guitar
+- googgoogaga
+- golden retriever
