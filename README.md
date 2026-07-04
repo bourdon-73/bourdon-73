@@ -19,5 +19,5 @@ hobbies in g :
 
 
 I need to work on : 
-- finishing projects
-- working with others
+- Finishing projects
+- Working with others.
