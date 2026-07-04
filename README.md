@@ -14,3 +14,8 @@ hobbies in g :
 - guitar
 - googgoogaga
 - golden retriever
+
+
+I need to work on : 
+- finishing projects
+- working with others
