@@ -28,7 +28,7 @@ hobbies in g :
 - golden retriever
 
 
-NOW THIS IS WHAT IM TALKING ABOUT :
+This is insane
 
                                    ...vvvv)))))).
        /~~\               ,,,c(((((((((((((((((/
