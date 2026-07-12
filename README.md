@@ -1,4 +1,4 @@
-## Sup 👋
+## Sup 👋 
 
 I'm Will.
 
@@ -44,4 +44,4 @@ This is insane
          ]/                 ~=Xm_       '~=(Gm_.
 
 
-website : bourdon-73.github.io 
+
