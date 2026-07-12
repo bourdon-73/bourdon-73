@@ -2,7 +2,7 @@
 
 I'm Will.
 
-I mostly mess around in Godot. https://bourdon-73.github.io/
+I mostly mess around in Godot.
 
 **Tech**
 - C++
